@@ -1,2 +1,7 @@
-# C_program_pattern_vce_hyd_sem1-1
-This is C programming pattern making program , try for other alphabets
+# C Pattern Printing Program
+
+This is a simple C program that prints a pattern using loops and conditions.
+
+## 🔹 What it does
+
+The program prints this pattern:
