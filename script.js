@@ -1,6 +1,6 @@
 function generatePattern() {
 
-    let ch = document.getElementById("charInput").value.toUpperCase();
+    let ch = document.getElementById("charInput").value.toUpperCase(); 
     let output = "";
 
     for (let i = 1; i <= 5; i++) {
